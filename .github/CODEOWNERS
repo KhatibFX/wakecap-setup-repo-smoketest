@@ -1,0 +1,6 @@
+# CODEOWNERS written by scripts/setup-repo.sh for a repo that had none.
+# KhatibFX is the GitHub login that created the repo (`gh api user`).
+# Replace this once a real owning team is named — see
+# wakecap-mobile-platform/contracts/m2-repository-preparation-status.md.
+
+* @KhatibFX
